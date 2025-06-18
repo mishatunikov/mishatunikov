@@ -1,5 +1,5 @@
 ### Hi, I'm Mikhail 👋  
-Backend developer from Moscow. I work with Python — building bots, APIs, and web services.  
+Backend developer from Moscow. I work with Python — APIs, web services and building bots,   
 Currently diving deeper into async programming and improving my developer toolkit.
 
 ---
