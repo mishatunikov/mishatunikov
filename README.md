@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Mikhail 👋  
+Backend developer from Moscow. I work with Python — building bots, APIs, and web services.  
+Currently diving deeper into async programming and expanding my stack.
 
-<!--
-**mishatunikov/mishatunikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🧰 Tools & Technologies:  
+Python · Django · DRF · Flask · Aiogram  
+PostgreSQL · Docker · Git · Nginx · Gunicorn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Interests:  
+Async programming · Telegram bots · Software architecture · Continuous learning
+
+📬 Reach me:  
+[Telegram](https://t.me/mtunikov)  
+[Email](mailto:michael.tunikov@yandex.ru)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishatunikov&show_icons=true&theme=transparent&hide_title=true)
