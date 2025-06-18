@@ -19,8 +19,11 @@ Currently diving deeper into async programming and improving my developer toolki
 
 ---
 
-### 🎯 Interests  
-·Async programming ·Web API design ·Telegram bots ·Clean architecture
+### 🎯 Interests
+- ⚙️ Async programming  
+- 🌐 Web API design  
+- 🤖 Telegram bot development  
+- 🧱 Clean architecture & scalable systems
 
 ---
 
@@ -29,4 +32,5 @@ Currently diving deeper into async programming and improving my developer toolki
 [Email](mailto:michael.tunikov@yandex.ru)
 
 ---
-https://github-readme-stats.vercel.app/api/top-langs/?username=mishatunikov&layout=compact
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishatunikov&show_icons=true&theme=transparent&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishatunikov&layout=compact&theme=transparent)
