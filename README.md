@@ -29,5 +29,4 @@ Currently diving deeper into async programming and improving my developer toolki
 [Email](mailto:michael.tunikov@yandex.ru)
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishatunikov&show_icons=true&theme=transparent&hide_title=true)
+https://github-readme-stats.vercel.app/api/top-langs/?username=mishatunikov&layout=compact
